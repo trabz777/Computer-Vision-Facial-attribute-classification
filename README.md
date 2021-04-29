@@ -8,7 +8,7 @@ Project outline (Read report 'AML report' for full understanding of project):
 
  1 - Creating 'video.mp4' of 'images' using 'merge_images_to_video.py' script. Note that the provided 'video.mp4' has 2000 images, but for this project I used only 1000 annotated images. If you will run this script again using the provided 'images' folder, it will only create the video for the given 1000 images. In my case I had 2000 images in 'images' folder thats why my video.mp4 turned out to have 2000 images.
  
- 2 - Converting 'video.mp4' to 'video.mov'. Can be done using any reasobly good video player.
+ 2 - Converting 'video.mp4' to 'video.mov'. Can be done using any reasonably good video player.
  
  3 - Importing 'video.mov' into the provided annotation tool.
  
