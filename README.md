@@ -2,7 +2,7 @@
 This is an end to end computer vision project which solves 5 multi-class classification tasks. Each task represents a specific facial attribute. Each attribute has either 2 or more than 2 classes. Project includes Data Annotation, Preparation, Preprocessing, Training, Testing and Evaluation stages.
 
 
-Project outline (Read report for full understanding of project 'AML report'): 
+Project outline (Read report 'AML report' for full understanding of project): 
 
  1 - Creating 'video.mp4' of 'images' using 'merge_images_to_video.py' script. Note that the provided 'video.mp4' has 2000 images, but for this project I used only 1000 annotated images. If you will run this script again using the provided 'images' folder, it will only create the video for the given 1000 images. In my case I had 2000 images in 'images' folder thats why my video.mp4 turned out to have 2000 images.
  
