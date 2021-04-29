@@ -1,6 +1,8 @@
 # Computer-Vision-Facial-attribute-classification
 This is an end to end computer vision project which solves 5 multi-class classification tasks. Each task represents a specific facial attribute. Each attribute has either 2 or more than 2 classes (Maximum 9). Project includes Data Annotation (annotation tool is provided), Preparation, Preprocessing, Training, Testing and Evaluation stages.
 
+'Images', 'video.mp4' and 'video.mov' link: https://drive.google.com/drive/folders/1x8ELbevBXA7x-W83GjyXWA0_k7WVE-xs?usp=sharing
+
 
 Project outline (Read report 'AML report' for full understanding of project): 
 
