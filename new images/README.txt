@@ -1,0 +1,1 @@
+These are the new images downloaded and then their predictions are tested in testing_code.ipynb
